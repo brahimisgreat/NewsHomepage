@@ -1,0 +1,45 @@
+#group3-container {
+  width: 21.4375rem;
+}
+
+#backImg {
+  width: 21.4375rem;
+  height: 18.75rem;
+}
+
+h2 {
+  width: 21.4375rem;
+  color: var(--Dark-Space-Blue, #00001a);
+  font-family: Inter;
+  font-size: 2.5rem;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 2.5rem; /* 100% */
+}
+
+#group3-container p {
+  width: 21.4375rem;
+  color: var(--Gunmetal, #5e607a);
+  font-feature-settings: "clig" off, "liga" off;
+
+  /* Body */
+  font-family: Inter;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0.9375rem; /* 173.333% */
+}
+
+button {
+  width: 11.5625rem;
+  height: 3rem;
+  background: var(--Light-Vermillion, #f15d51);
+  color: var(--Almost-White, #fffdfa);
+  font-family: Inter;
+  font-size: 0.875rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height:1.5rem ; /* 171.429% */
+  letter-spacing: 0.2734375rem;
+  border: none;
+}

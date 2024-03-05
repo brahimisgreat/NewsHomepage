@@ -1,0 +1,6 @@
+#group5-container {
+  width: 343px;
+  height: 489px;
+  flex-shrink: 0;
+  border: solid;
+}

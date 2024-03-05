@@ -1,0 +1,18 @@
+#group2-container {
+  display: flex;
+  justify-content: space-between;
+  width: 343px;
+  border: solid;
+  align-items: center;
+}
+
+#logo {
+  width: 2.8110625rem;
+  height: 1.75rem;
+}
+
+#menu {
+  width: 2.5rem;
+  height: 1.0625;
+  
+}

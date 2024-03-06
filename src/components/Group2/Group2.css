@@ -1,8 +1,7 @@
 #group2-container {
   display: flex;
   justify-content: space-between;
-  width: 343px;
-  border: solid;
+  width: 21.4375rem;
   align-items: center;
 }
 
